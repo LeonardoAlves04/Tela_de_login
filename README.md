@@ -1,1 +1,1 @@
-# Tela_de_login
+Meu primeiro projeto feito, algo bem simples porém sinaliza o começo de grandes projetos que virão. Trata-se de uma tela de login, com algumas decorações como: Cor degradê de fundo e mundança de cor responsiva no botão.
